@@ -35,17 +35,17 @@ namespace exam_912.Models
 
     public enum Teacher
     {
-        Jayalakshmi =1,
-        JohnCater = 2,
-        HienPa = 3
+        Jayalakshmi,
+        JohnCater,
+        HienPa
 
 
     }
 
     public enum ClassRoomSt
     {
-        B10 = 1,
-        B16 = 2,
-        B14 = 3
+        B10,
+        B16,
+        B14
     }
 }
